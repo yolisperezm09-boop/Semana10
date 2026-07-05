@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero?
+Configurar la conexion/webhook inicial entre n8n y el bot de telegram
+Crear el flujo basico en n8n para enviar un mensaje automatico de prueba a un chat o canal de telegram
+
+¿Por qué son las más importantes?
+Porque constituyen la estructura del proyecto ya que si no asegumaos que n8n pueda cominicarse de manera eficiente con telegram de lo contrario
+no se podria automatizar.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Que una tarea este terminada significa que cumplimos con el objetivo de poner en marcha todo un sistema que ala final nos dio la terminacion satisfactoria de este 

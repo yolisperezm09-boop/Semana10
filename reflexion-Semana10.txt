@@ -1,0 +1,5 @@
+¿Por qué las metodologías ágiles, la automatización y canales como Telegram pueden ayudar a organizar
+ mejor una comunidad o un proceso de participación ciudadana?
+ Poruqe construyen participacion ciudadana por su facilidad en la interacion rapida  y el manejo eficiente de grandes comunidades, 
+ reduciendo la burocracia y mejorando el flujo de información y lo mejor es que todo se lleva a cabo en tiempo real
+ Cada mienbro de la comunidad tiene su rol definido y que tambien contariamos con un bot 24/7 y alertas de alarmas para cada tarea.

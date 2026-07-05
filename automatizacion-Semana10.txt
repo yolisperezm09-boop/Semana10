@@ -1,0 +1,9 @@
+¿Qué evento activa el flujo?
+Un saludo de beinvenida
+
+¿Qué mensaje se enviaría a Telegram?
+Alerta automatica
+
+¿Qué información no debería enviarse por seguridad?
+Datos personales ya que son sensibles 
+
